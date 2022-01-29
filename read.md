@@ -8,6 +8,6 @@ For a `QueueTrigger` to work, you must provide a queue name that defines the que
 
 ## Learn more
 
-# this queue triggers are manually handled on azure portal. All files are created and added using "App Service Editor" for the function app on Azure portal
+# The queue trigger is manually handled on azure portal. All the following files present on the repository are created and added using "App Service Editor" for the queue trigger function on Azure portal
 
 <TODO> Documentation
